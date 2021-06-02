@@ -1,2 +1,2 @@
-# Data-Visualisation-using-matplotlib
-Contains some of the libraries of matplotlib in python.
+# Data Visualisation using matplotlib
+How to construct different types of visualizations using matplotlib in python.
